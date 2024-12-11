@@ -56,5 +56,8 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 ---
 
 ## İletişim
-- **Web Sitesi:** [abdulkadirkaya.com](https://www.abdulkadirkaya.com)  
-- **E-posta:** [info@abdulkadirkaya.com](mailto:info@abdulkadirkaya.com)  
+- **Web Sitesi:** [abdulkadirkaya.com](https://www.abdulkadirkaya.com)
+- **LinkedIn** [linkedin.com/in/meabdulkadirkaya](https://www.linkedin.com/in/meabdulkadirkaya/)
+- **E-Posta 1:** [info@abdulkadirkaya.com](mailto:info@abdulkadirkaya.com)
+- **E-Posta 2:** [meabdulkadirkaya@gmail.com](mailto:meabdulkadirkaya@gmail.com)
+ 
