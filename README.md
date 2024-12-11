@@ -51,7 +51,10 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ---
 
+- **Bi' Kahve?:** https://buymeacoffee.com/abdulkadulkadirkaya  
+
+---
+
 ## İletişim
-- **GitHub:** [meabdulkadirkaya](https://github.com/meabdulkadirkaya)  
 - **Web Sitesi:** [abdulkadirkaya.com](#)  
-- **E-posta:** [abdulkadir@example.com](mailto:info@abdulkadirkaya.com)  
+- **E-posta:** [info@abdulkadirkaya.com](mailto:info@abdulkadirkaya.com)  
