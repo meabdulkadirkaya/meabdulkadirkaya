@@ -6,16 +6,12 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ## 🚀 Hakkımda
 - **Konum:** İstanbul, Türkiye  
-- **Deneyim:** 6+ Yıl (Frontend Developer & WordPress Uzmanı)  
-- **Uzmanlık Alanları:**  
+- **Deneyim:** 6+ Yıl (Frontend Developer & WordPress Tema ve Özelleştirici)  
+- **Neler Yapabiliyorum:**  
   - **UI & UX Tasarım**  
   - **Web Arayüzü Geliştirme**  
   - **WordPress Tema Kodlama ve Özelleştirme**  
   - **WiseCP Tema Özelleştirme**  
-- **Hedeflerim:**  
-  - Kendi ofisimi kurmak  
-  - Girişimcilik ruhumu harekete geçirmek  
-  - Yeni bilgiler öğrenip paylaşmak  
 
 ---
 
@@ -29,11 +25,11 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 ## 💼 Profesyonel Deneyim
 | Pozisyon                             | Şirket/Firma               | Tarih          | Rol              |
 |--------------------------------------|----------------------------|----------------|------------------|
-| Frontend Developer                   | **Abdulkadir Kaya**        | 2023 - Günümüz | Kurucu           |
+| Frontend Developer                   | **Frontend Developer - Abdulkadir Kaya**        | 2023 - Günümüz | Kurucu           |
 | Frontend Developer                   | **Frechu Agency**          | 2024 - Günümüz | Kurucu Ortak     |
 | Frontend Developer                   | **Onur Özden Web Çözümleri** | 2020 - Günümüz | Frontend Developer |
 | Frontend Developer                   | **Frechu Agency**          | 2018 - 2024    | Frontend Developer |
-| Frontend Developer                   | **Naklov**                 | 2024 (Haz. - Kas.) | Frontend Developer |
+| Frontend Developer                   | **Naklov**                 | 2024 (Haziran - Kasım) | Frontend Developer |
 
 ---
 
@@ -45,15 +41,8 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ---
 
-## 📈 İstatistikler ve Başarılar
-- **70+** Mutlu Müşteri  
-- **20+** Mutlu Firma  
-- **70+** Tamamlanan Proje  
-
----
-
 ## 🎵 İlginç Bir Not
-Çalışırken müzik dinlemeyi çok seviyorum! Özellikle **Arabesk** müzikler benim en büyük motivasyon kaynaklarımdan biri.
+Çalışırken müzik dinlemeyi çok seviyorum! Özellikle **Arabesk** müzik çok sık dinlerim.
 
 ---
 
