@@ -1,4 +1,4 @@
-# Abdulkadir Kaya | Web Tasarımında 6 Yıllık Deneyim & Frechu Agency Şirketinde Co-Founder
+Web Tasarımında 6 Yıllık Deneyim & Frechu Agency Şirketinde Co-Founder
 
 Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyimimle** projelerinizi bir sonraki seviyeye taşımak için buradayım. İstanbul Bakırköy'de dünyaya geldim ve o günden beri öğrenmeye ve üretmeye tutkuyla bağlıyım. UI/UX tasarım, WordPress tema kodlama ve özelleştirme, web arayüzü tasarımı gibi birçok alanda tecrübelerimi geliştirdim.
 
