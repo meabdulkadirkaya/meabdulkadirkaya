@@ -1,3 +1,8 @@
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress)
+
 # Web Tasarımında 6 Yıllık Deneyim & Frechu Agency Şirketinde Co-Founder
 
 Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyimimle** projelerinizi bir sonraki seviyeye taşımak için buradayım. İstanbul Bakırköy'de dünyaya geldim ve o günden beri öğrenmeye ve üretmeye tutkuyla bağlıyım. UI/UX tasarım, WordPress tema kodlama ve özelleştirme, web arayüzü tasarımı gibi birçok alanda tecrübelerimi geliştirdim.
