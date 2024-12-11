@@ -1,10 +1,10 @@
-# Abdulkadir Kaya | Web Tasarımında 6 Yıllık Deneyim & Frechu Agency Şirketinde Co-Founder
+# Abdulkadir Kaya | Frontend Developer & WordPress Uzmanı
 
 Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyimimle** projelerinizi bir sonraki seviyeye taşımak için buradayım. İstanbul Bakırköy'de dünyaya geldim ve o günden beri öğrenmeye ve üretmeye tutkuyla bağlıyım. UI/UX tasarım, WordPress tema kodlama ve özelleştirme, web arayüzü tasarımı gibi birçok alanda tecrübelerimi geliştirdim.
 
 ---
 
-## Hakkımda
+## 🚀 Hakkımda
 - **Konum:** İstanbul, Türkiye  
 - **Deneyim:** 6+ Yıl (Frontend Developer & WordPress Tema ve Özelleştirici)  
 - **Neler Yapabiliyorum:**  
@@ -15,14 +15,14 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ---
 
-## Sunabildiğim Hizmetler
+## 🛠️ Sunabildiğim Hizmetler
 - **Web Arayüz Tasarımı:** Kullanıcı dostu, şık ve işlevsel web arayüzleriyle projelerinizi en iyi şekilde sunuyorum.
 - **WordPress Özel Tema:** Projelerinize özel, ihtiyacınıza uygun WordPress temaları geliştiriyorum.
 - **WordPress Site Düzenlemesi:** Mevcut WordPress sitenizi optimize ediyor, güncelliyor ve özelleştiriyorum.
 
 ---
 
-## Profesyonel Deneyim
+## 💼 Profesyonel Deneyim
 | Pozisyon                             | Şirket/Firma               | Tarih          | Rol              |
 |--------------------------------------|----------------------------|----------------|------------------|
 | Frontend Developer                   | **Frontend Developer - Abdulkadir Kaya**        | 2023 - Günümüz | Kurucu           |
@@ -33,7 +33,7 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ---
 
-## Eğitim
+## 🎓 Eğitim
 - **İstanbul Gelişim Meslek Yüksek Okulu**  
   *Web Tasarımı ve Kodlama (2023 - Günümüz)*  
 - **Kardelen Mesleki ve Teknik Anadolu Lisesi**  
@@ -41,12 +41,12 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 
 ---
 
-## İlginç Bir Not
+## 🎵 İlginç Bir Not
 Çalışırken müzik dinlemeyi çok seviyorum! Özellikle **Arabesk** müzik çok sık dinlerim.
 
 ---
 
-## İletişim
+## 🌐 İletişim
 - **GitHub:** [meabdulkadirkaya](https://github.com/meabdulkadirkaya)  
 - **Web Sitesi:** [abdulkadirkaya.com](#)  
-- **E-posta:** [abdulkadir@example.com](mailto:abdulkadir@example.com)  
+- **E-posta:** [abdulkadir@example.com](mailto:info@abdulkadirkaya.com)  
