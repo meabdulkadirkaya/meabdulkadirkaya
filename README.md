@@ -32,9 +32,9 @@ Merhaba! Ben Abdulkadir Kaya, **6 yıllık web tasarımı ve geliştirme deneyim
 |----------------------------|----------------|------------------|
 | **Frontend Developer - Abdulkadir Kaya**        | 2023 - Günümüz | Kurucu           |
 | **Frechu Agency**          | 2024 - Günümüz | Kurucu Ortak     |
+| **Naklov**                 | 2024 - Günümüz | Frontend Developer |
 | **Onur Özden Web Çözümleri** | 2020 - Günümüz | Frontend Developer |
 | **Frechu Agency**          | 2018 - 2024    | Frontend Developer |
-| **Naklov**                 | 2024 (Haziran - Kasım) | Frontend Developer |
 
 ---
 
